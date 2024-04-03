@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asor-1
-- 👀 I’m interested in computational biology and physics
+- 👀 I’m interested in computational biology and image analysis
 - 🌱 I’m currently coding!
 - 📫 How to reach me asorescu@imsa.edu
 - 😄 Pronouns: He/Him/His
