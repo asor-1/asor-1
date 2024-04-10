@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @asor-1
-- 👀 I’m interested in computational biology and image analysis
-- 🌱 I’m currently coding!
-- 📫 How to reach me asorescu@imsa.edu
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I enjoy spending my winters snowboarding
+I’m interested in computational biology and image analysis
 
 <!---
 asor-1/asor-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
